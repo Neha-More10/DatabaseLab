@@ -1,7 +1,7 @@
 ﻿ # Database Lab
 
 
-# PostgreSQL Database Lab — Beginner Friendly Guide
+# PostgreSQL Database Lab
 
 ## What is PostgreSQL?
 
@@ -23,7 +23,7 @@ Big companies use PostgreSQL for:
 * SaaS products
 * fintech applications
 
----
+
 
 # What We Built In This Project
 
@@ -51,7 +51,7 @@ We also learned:
 * Docker
 * GitHub workflow
 
----
+
 
 # Project Structure
 
